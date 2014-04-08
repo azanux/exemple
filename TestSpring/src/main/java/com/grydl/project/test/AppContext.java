@@ -4,13 +4,15 @@ import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 import com.grydl.project.test.service.TransfertService;
+
 /**
  * Ceci est le code java de la solution, pour faire les tests GIT
  * @author azanlekor
  *
  */
 public class AppContext {
-
+	
+	
 	private static ApplicationContext app;
 
 	public static void main(String[] args) {
